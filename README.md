@@ -11,7 +11,7 @@ I use AI agents to turn product ideas into working prototypes, structured specs,
 Product experiments that turn rough opportunities into runnable interfaces, specs, and evidence.
 
 - [aicv-resume-dashboard](https://github.com/ziyetsui/aicv-resume-dashboard) - China-localized AI resume dashboard with onboarding, generation flows, specs, and screenshot evidence.
-- [product-web-builds-w12-resume-product-prototypes](https://github.com/ziyetsui/product-web-builds-w12-resume-product-prototypes) - Resume and product experience prototypes for AICV, Pomelli-style flows, and related product ops notes.
+- Resume and product experience prototypes - AICV, Pomelli-style flows, Kimi resume references, and product ops specs collected in private workstreams.
 
 ### Creator and Content Automation
 
