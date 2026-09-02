@@ -22,6 +22,12 @@ Systems for AI-assisted writing, publishing, media production, and workflow pack
 - [youtube-shorts-agent-system](https://github.com/ziyetsui/youtube-shorts-agent-system) - Multi-agent blueprint and prototype for AI-assisted YouTube Shorts production.
 - [video-editing-workflow-spec](https://github.com/ziyetsui/video-editing-workflow-spec) - PiP screen demo video editing workflow spec.
 
+### OpenLab / PromptLab
+
+Public, Git-first labs for reusable prompts, agent-native content workflows, and small experiments that can be reviewed and improved in the open.
+
+- [prompt-lab](https://github.com/ziyetsui/prompt-lab) - A multilingual Prompt library where Markdown is the source of truth and every public change is reviewed through Git.
+
 ### Visual Reference Systems
 
 Libraries and tools for collecting, browsing, and reusing visual patterns.
