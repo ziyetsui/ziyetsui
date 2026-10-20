@@ -1,61 +1,35 @@
-# ziye
+# Hi, I’m Ziye 👋
 
 I build AI-native product prototypes, content automation systems, and visual reference tools.
 
-I use AI agents to turn product ideas into working prototypes, structured specs, visual libraries, and repeatable publishing workflows.
+I use AI agents to turn ideas into working products, useful creative tools, and repeatable workflows.
 
-## What I Build
+## Things I build
 
-### AI Product Prototypes
+### Prompts & agent workflows
 
-Product experiments that turn rough opportunities into runnable interfaces, specs, and evidence.
+- [prompt-lab](https://github.com/ziyetsui/prompt-lab) — A multilingual, Git-first prompt library with human-reviewed agent workflows.
+- [wechat-article-skills](https://github.com/ziyetsui/wechat-article-skills) — Reusable skills for writing, formatting, and publishing WeChat articles.
 
-- Private workstreams: AICV resume dashboard, resume-product prototypes, Pomelli-style product flows, Kimi resume references, and product ops specs.
-- Public examples are promoted here once the README, screenshots, and source-material boundaries are ready.
+### Creator tools & visual references
 
-### Creator and Content Automation
+- [design-reference-library](https://github.com/ziyetsui/design-reference-library) — A searchable library of design references and visual patterns.
+- [portrait-inspiration-gallery](https://github.com/ziyetsui/portrait-inspiration-gallery) — A portrait photography reference gallery for creative direction.
+- [youtube-shorts-agent-system](https://github.com/ziyetsui/youtube-shorts-agent-system) — A blueprint and prototype for AI-assisted YouTube Shorts production.
 
-Systems for AI-assisted writing, publishing, media production, and workflow packaging.
+### Knowledge & small tools
 
-- [wechat-article-skills](https://github.com/ziyetsui/wechat-article-skills) - Codex skills for WeChat Official Account article writing, layout, cover creation, and publishing workflows.
-- [wechat-article-workflow](https://github.com/ziyetsui/wechat-article-workflow) - AI workflow app for WeChat Official Account content creation and management.
-- [youtube-shorts-agent-system](https://github.com/ziyetsui/youtube-shorts-agent-system) - Multi-agent blueprint and prototype for AI-assisted YouTube Shorts production.
-- [video-editing-workflow-spec](https://github.com/ziyetsui/video-editing-workflow-spec) - PiP screen demo video editing workflow spec.
+- [jdex-wiki](https://github.com/ziyetsui/jdex-wiki) — A Codex skill for building and maintaining a local Johnny.Decimal knowledge index.
 
-### OpenLab / PromptLab
+## How I work
 
-Public, Git-first labs for reusable prompts, agent-native content workflows, and small experiments that can be reviewed and improved in the open.
+Start with a clear spec. Build a small, runnable prototype. Review it with visual evidence. Turn repeated work into reusable skills and workflows.
 
-- [prompt-lab](https://github.com/ziyetsui/prompt-lab) - A multilingual Prompt library where Markdown is the source of truth and every public change is reviewed through Git.
+## GitHub activity
 
-### Visual Reference Systems
+<p>
+  <img height="170" align="top" src="https://github-stats-extended.vercel.app/api?username=ziyetsui&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;hide=issues&amp;disable_animations=true" alt="Ziye’s GitHub statistics" />
+  <img height="170" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ziyetsui&amp;layout=compact&amp;langs_count=6" alt="Most used languages in Ziye’s public repositories" />
+</p>
 
-Libraries and tools for collecting, browsing, and reusing visual patterns.
-
-- [design-reference-library](https://github.com/ziyetsui/design-reference-library) - Creative reference library with real design cases, thumbnails, and searchable visual patterns.
-- [portrait-inspiration-gallery](https://github.com/ziyetsui/portrait-inspiration-gallery) - Static portrait photography inspiration archive for visual direction and creative references.
-- [xiaohongshu-product-image-agent](https://github.com/ziyetsui/xiaohongshu-product-image-agent) - Tool for extracting PDF pages and composing Xiaohongshu-ready product images.
-- Private workstream: TikTok reference gallery for short-video creative pattern review.
-
-### Tools, Extensions, and Infrastructure
-
-Small utilities and product infrastructure for research, capture, knowledge organization, and AI-assisted building.
-
-- [jdex-wiki](https://github.com/ziyetsui/jdex-wiki) - Codex skill for building and maintaining a local Johnny.Decimal JDex wiki.
-- [geektime-bootcamp-ai](https://github.com/ziyetsui/geektime-bootcamp-ai) - AI programming bootcamp notes, exercises, specs, and project experiments.
-- Private workstreams: XHS helper extension, PageGrab screenshot tool, and product-web-build snapshots.
-
-## Operating Style
-
-- Specs before scattered execution.
-- Small runnable prototypes over abstract plans.
-- Visual evidence for product and design work.
-- Reusable skills, agents, and workflows when a task repeats.
-- Public repos tell the product story; private workstreams preserve the build history.
-
-## Current Focus
-
-- AI resume and career-product workflows.
-- Visual reference libraries for creators and product builders.
-- Browser tools for research, capture, and content operations.
-- AI-agent-assisted product development systems.
+<sub>Cards reflect public GitHub activity. Language shares describe repository code, not proficiency.</sub>
